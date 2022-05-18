@@ -9,9 +9,9 @@ get_byol_embed()
 This piece of code will save models at every epoch in current folder
 
 To test our latest embeddings on Movie Review Classification task:
-from get_byol_embeddings import test_embeddings
+<from get_byol_embeddings import test_embeddings
 test_embeddings()
-
+>
 To test word2vec embeddings on Movie Review Classification task:
 from get_byol_embeddings import test_embeddings
 test_embeddings(enhance=False)
