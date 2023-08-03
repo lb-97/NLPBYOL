@@ -27,7 +27,7 @@ from get_byol_embeddings import pca
 pca(word='get')
 ```
 The below plot shows the accuracy plots for various models - OurBYOL Vs Word2Vec:
-[Figure1](https://github.com/lb-97/NLPBYOL/blob/main/assets/ClassificationAccPlot.png)
+![Figure1](https://github.com/lb-97/NLPBYOL/blob/main/assets/ClassificationAccPlot.png)
 
 Here's the performance gain in terms of PCA visualization:
-[Figure2](https://github.com/lb-97/NLPBYOL/blob/main/assets/EnhancedEmbedInterpretability.png)
+![Figure2](https://github.com/lb-97/NLPBYOL/blob/main/assets/EnhancedEmbedInterpretability.png)
